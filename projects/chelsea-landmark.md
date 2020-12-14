@@ -1,12 +1,11 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Banana
+title: 'Projects: Art Feed Reader'
 category: Identity
 thumbnail: "/uploads/art-screen-reader-full-clipped.jpg"
 categories:
 - photography
-- pink
 project_bg_color: ''
 project_fg_color: ''
 
