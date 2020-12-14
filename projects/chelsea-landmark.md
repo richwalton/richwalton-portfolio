@@ -4,8 +4,7 @@ year: 2019
 title: 'Projects: Art Feed Reader'
 category: Identity
 thumbnail: "/uploads/art-screen-reader-full-clipped.jpg"
-categories:
-- photography
+categories: []
 project_bg_color: ''
 project_fg_color: ''
 
