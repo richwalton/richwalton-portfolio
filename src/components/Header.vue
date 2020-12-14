@@ -39,6 +39,7 @@ export default {
     position: fixed;
     top: 0;
     left: 0;
+    background-color: rgba(255,255,255,0.95);
     width: 100%;
 }
 .header > .container {
