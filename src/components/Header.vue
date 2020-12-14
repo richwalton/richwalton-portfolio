@@ -32,14 +32,14 @@ export default {
 <style scoped>
 .header {
     position: relative;
-    height: 6rem;
+    height: 4.5rem;
     z-index: 10;
 }
 .header.sticky {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: rgba(255,255,255,0.95);
+    background-color: rgba(255,255,255,0.96);
     width: 100%;
 }
 .header > .container {
