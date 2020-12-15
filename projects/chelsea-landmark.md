@@ -1,7 +1,7 @@
 ---
 date: 2019-05-16
 year: 2019
-title: 'Projects: Art Feed Reader'
+title: 'Case Study One: Art Feed Reader'
 category: Identity
 thumbnail: "/uploads/art-screen-reader-full-clipped.jpg"
 categories: []
