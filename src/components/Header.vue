@@ -91,6 +91,7 @@ export default {
     .logo {
     height: 1.5rem;
     margin:10px 0;
+    min-width:200px;
 }
 } 
 </style>
