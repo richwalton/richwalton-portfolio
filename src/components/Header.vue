@@ -1,5 +1,6 @@
 <template>
     <header class="header" :class="{sticky: $route.path === '/' || $route.path.includes('/projects/')}">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
         <div class="container">
             <div class="left">
                 <g-link :to="{ name: 'home' }" class="home-link">
@@ -52,7 +53,7 @@ export default {
     text-decoration: none;
 }
 .logo {
-    height: 1.5rem;
+    height: 1.7rem;
 }
 .site-name {
     font-size: 0.9rem;
@@ -81,4 +82,14 @@ export default {
 .nav > .active {
     border-color: inherit;
 }
+@media (max-width: 979px) {
+
+    .header > .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+} 
 </style>
