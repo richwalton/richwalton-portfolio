@@ -83,13 +83,13 @@ export default {
     border-color: inherit;
 }
 @media (max-width: 979px) {
-
     .header > .container {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    
-    
+    align-items: center;  
+    }
+    .logo {
+    height: 1.5rem;
 }
 } 
 </style>
