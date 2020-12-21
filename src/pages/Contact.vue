@@ -7,7 +7,7 @@
         <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
       </div>
 
-      <form method="POST" data-netlify="true" class="contact-form" name="contact" >
+      <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true" class="contact-form">
 
         <div class="sender-info">
           <div>
