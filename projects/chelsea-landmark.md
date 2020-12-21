@@ -10,6 +10,8 @@ categories:
 - Fetch external XML data
 project_bg_color: ''
 project_fg_color: ''
+tags:
+- new
 
 ---
 New feed reader goes Here:
