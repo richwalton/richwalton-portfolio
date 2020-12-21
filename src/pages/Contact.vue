@@ -8,7 +8,7 @@
       </div>
 
       <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true" class="contact-form">
-        <input type="hidden" name="contact" value="contact" />
+        <input type="hidden" name="form-name" value="contact" />
         <div class="sender-info">
           <div>
             <label for="name" class="label">Your name</label>
@@ -27,11 +27,7 @@
         <div class="field">
           <div data-netlify-recaptcha="true" ></div>
         </div>
-        
-
-
         <button class="button">Submit form</button>
-
       </form>
 
     </div>
