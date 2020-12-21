@@ -31,7 +31,7 @@ export default {
 .projects {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 4rem;
+  grid-gap: 6rem 2rem;
 }
 .project {
   grid-column: auto / span 2;
@@ -41,7 +41,9 @@ export default {
   text-decoration: none;
 }
 .thumbnail {
-  height: 560px;
+  height: 300px;
+  width: 300px;
+  border-radius:100%;
   object-fit: cover;
   transition: all 0.15s ease;
   box-shadow: 0 0 40px -20px rgba(0,0,0,0.25);
@@ -70,9 +72,9 @@ export default {
   .project {
     grid-column: auto / span 1;
   }
-  .project:nth-child(3n+1) {
+  /* .project:nth-child(3n+1) {
     grid-column: auto / span 2;
-  }
+  } --- span full width every third item starting with 1st item desktop*/
 }
 
 </style>
