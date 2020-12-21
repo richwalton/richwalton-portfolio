@@ -7,7 +7,7 @@
         <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
       </div>
 
-      <formaction="POST" data-netlify="true" class="contact-form" name="contact" >
+      <form action="POST" data-netlify="true" class="contact-form" name="contact" >
 
         <div class="sender-info">
           <div>
