@@ -35,6 +35,10 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 pages:
 - projects/3d-graff.md
 - projects/chelsea-landmark.md
