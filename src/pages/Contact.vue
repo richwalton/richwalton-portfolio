@@ -8,8 +8,8 @@
       </div>
 
       <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true" class="contact-form">
-        <input type="hidden" name="form-name" value="contact" />
         <div class="sender-info">
+          <div><input type="hidden" name="form-name" value="contact" /></div>
           <div>
             <label for="name" class="label">Your name</label>
             <input type="text" name="name" />
