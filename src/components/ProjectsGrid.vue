@@ -43,6 +43,7 @@ export default {
 .thumbnail {
   height: 300px;
   width: 300px;
+  border: 3px solid rgb(128 128 128);
   border-radius:100%;
   object-fit: cover;
   transition: all 0.15s ease;
