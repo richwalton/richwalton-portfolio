@@ -24,9 +24,9 @@
           <label for="message" class="label">Message</label>
           <textarea name="message"></textarea>
         </div>
-        <div class="field">
+        
           <div data-netlify-recaptcha="true" ></div>
-        </div>
+        
         <button class="button">Submit form</button>
       </form>
 
