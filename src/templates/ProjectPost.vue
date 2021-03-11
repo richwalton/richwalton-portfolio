@@ -87,7 +87,7 @@ export default {
 .category:last-of-type:after {
   content: '';
 }
-.para-one {
+.content .para-one {
   color:#4fa09d;
 }
 </style>
