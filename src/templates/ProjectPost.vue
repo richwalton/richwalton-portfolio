@@ -89,7 +89,7 @@ export default {
   content: '';
 }
 .project-header .content .para-one {
-  color:#4fa09d;
-  font-size:2.1em;
+  color:#4fa09d !important;
+  font-size:2.1em !important;
 }
 </style>
