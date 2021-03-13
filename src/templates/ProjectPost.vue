@@ -64,12 +64,12 @@ export default {
 <style scoped>
 .project-header {
   padding: 20vh 0 4rem 0;
-  color: red;
 }
 .project-title {
   font-size: 4rem;
   margin: 0 0 4rem 0;
   padding: 0;
+  color: red;
 }
 .project-info {
   display: flex;
