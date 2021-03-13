@@ -61,7 +61,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style >
 .project-header {
   padding: 20vh 0 4rem 0;
 }
