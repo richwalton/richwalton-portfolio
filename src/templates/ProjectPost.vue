@@ -64,6 +64,7 @@ export default {
 <style scoped>
 .project-header {
   padding: 20vh 0 4rem 0;
+  color: red;
 }
 .project-title {
   font-size: 4rem;
