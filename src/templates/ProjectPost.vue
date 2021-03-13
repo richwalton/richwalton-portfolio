@@ -88,7 +88,7 @@ export default {
 .category:last-of-type:after {
   content: '';
 }
-.content .para-one {
+.content .para-one p {
   color:#4fa09d !important;
   font-size:2.1em !important;
 }
