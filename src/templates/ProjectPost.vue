@@ -69,7 +69,7 @@ export default {
   font-size: 4rem;
   margin: 0 0 4rem 0;
   padding: 0;
-  color: red;
+  color:#4fa09d;
 }
 .project-info {
   display: flex;
@@ -88,7 +88,7 @@ export default {
 .category:last-of-type:after {
   content: '';
 }
-.para-one {
+.project-header .content .para-one {
   color:#4fa09d;
   font-size:2.1em;
 }
